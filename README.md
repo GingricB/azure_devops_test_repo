@@ -1,5 +1,5 @@
 # azure_devops_test_repo
 
-New
+Git Hub Repo Used for initial testing for Azure DevOps for developing cloud based services with Bicep files for Azure cloud.
 
-Repo used for initial testing of Azure devops pipelines
+Created by Ben Gingrich
